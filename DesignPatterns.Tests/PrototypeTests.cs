@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignPatterns.Creational.Prototype;
 using Xunit;
 
 namespace DesignPatterns.Tests
