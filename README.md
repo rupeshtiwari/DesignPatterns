@@ -8,11 +8,11 @@ Creational Patterns
 ===================
   Abstract Factory	
     Creates an instance of several families of classes
-  Builder
+  Builder 
     Separates object construction from its representation
-  Factory Method
+  Factory Method 
     Creates an instance of several derived classes
-  Prototype
+  Prototype 
     A fully initialized instance to be copied or cloned
-  Singleton
+  Singleton 
     A class of which only a single instance can exist 
