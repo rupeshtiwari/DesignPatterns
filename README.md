@@ -7,9 +7,7 @@ I will be exploring each design pattern using c# asp.net and updating this repos
 Creational Patterns
 ===================
   Abstract Factory	
-  ================
     Creates an instance of several families of classes
- 
   Builder
     Separates object construction from its representation
   Factory Method
