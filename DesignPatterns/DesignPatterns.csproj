@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Creational\FactoryMethod\Motivation\Application.cs" />
+    <Compile Include="Creational\FactoryMethod\Motivation\Document.cs" />
+    <Compile Include="Creational\FactoryMethod\Structure\ConcreteCreator.cs" />
+    <Compile Include="Creational\FactoryMethod\Structure\Creator.cs" />
+    <Compile Include="Creational\FactoryMethod\Motivation\MyApplication.cs" />
+    <Compile Include="Creational\FactoryMethod\Motivation\MyDocument.cs" />
+    <Compile Include="Creational\FactoryMethod\Structure\MyProduct.cs" />
+    <Compile Include="Creational\FactoryMethod\Structure\Product.cs" />
     <Compile Include="Creational\Prototype\Animal.cs" />
     <Compile Include="Creational\Prototype\CloneFactory.cs" />
     <Compile Include="Creational\Prototype\Sheep.cs" />
@@ -68,7 +76,6 @@
     <Folder Include="Behavioral\Visitor\" />
     <Folder Include="Creational\AbstractFactory\" />
     <Folder Include="Creational\Builder\" />
-    <Folder Include="Creational\FactoryMethod\" />
     <Folder Include="Creational\Singleton\" />
     <Folder Include="Structural\Adapter\" />
     <Folder Include="Structural\Composite\" />

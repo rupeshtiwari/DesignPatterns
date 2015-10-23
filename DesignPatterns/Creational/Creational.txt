@@ -5,3 +5,10 @@ Creational Patterns
   Factory Method	Creates an instance of several derived classes
   Prototype	A fully initialized instance to be copied or cloned
   Singleton	A class of which only a single instance can exist 
+
+
+Creates an instance of several derived classes. 
+Frameworks use abstract classes to define and maintain relationships between objects. 
+A framework is often responsible for creating these objects as well.
+This creates a dilemma: The framework must instantiate classes, but it only knows about abstract classes, which it cannot instantiate.
+The Factory Method pattern offers a solution. It encapsulates the knowledge of which subclass to create and moves this knowledge out of the framework.
